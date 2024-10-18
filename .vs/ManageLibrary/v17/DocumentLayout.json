@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MB_Traing_Basic_of_C#\\ManageLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D051804C-852B-41DC-9860-414B59D12332}|ManageLibrary.csproj|d:\\mb_traing_basic_of_c#\\managelibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D051804C-852B-41DC-9860-414B59D12332}|ManageLibrary.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D051804C-852B-41DC-9860-414B59D12332}|ManageLibrary.csproj|d:\\mb_traing_basic_of_c#\\managelibrary\\oop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D051804C-852B-41DC-9860-414B59D12332}|ManageLibrary.csproj|solutionrelative:oop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D051804C-852B-41DC-9860-414B59D12332}|ManageLibrary.csproj|d:\\mb_traing_basic_of_c#\\managelibrary\\linq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D051804C-852B-41DC-9860-414B59D12332}|ManageLibrary.csproj|solutionrelative:linq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D051804C-852B-41DC-9860-414B59D12332}|ManageLibrary.csproj|d:\\mb_traing_basic_of_c#\\managelibrary\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D051804C-852B-41DC-9860-414B59D12332}|ManageLibrary.csproj|solutionrelative:customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D051804C-852B-41DC-9860-414B59D12332}|ManageLibrary.csproj|d:\\mb_traing_basic_of_c#\\managelibrary\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D051804C-852B-41DC-9860-414B59D12332}|ManageLibrary.csproj|solutionrelative:libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D051804C-852B-41DC-9860-414B59D12332}|ManageLibrary.csproj|d:\\mb_traing_basic_of_c#\\managelibrary\\borrowinghistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D051804C-852B-41DC-9860-414B59D12332}|ManageLibrary.csproj|solutionrelative:borrowinghistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D051804C-852B-41DC-9860-414B59D12332}|ManageLibrary.csproj|d:\\mb_traing_basic_of_c#\\managelibrary\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D051804C-852B-41DC-9860-414B59D12332}|ManageLibrary.csproj|solutionrelative:borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D051804C-852B-41DC-9860-414B59D12332}|ManageLibrary.csproj|d:\\mb_traing_basic_of_c#\\managelibrary\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D051804C-852B-41DC-9860-414B59D12332}|ManageLibrary.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D051804C-852B-41DC-9860-414B59D12332}|ManageLibrary.csproj|d:\\mb_traing_basic_of_c#\\managelibrary\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D051804C-852B-41DC-9860-414B59D12332}|ManageLibrary.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D051804C-852B-41DC-9860-414B59D12332}|ManageLibrary.csproj|d:\\mb_traing_basic_of_c#\\managelibrary\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D051804C-852B-41DC-9860-414B59D12332}|ManageLibrary.csproj|solutionrelative:dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomException.cs",
+              "DocumentMoniker": "D:\\MB_Traing_Basic_of_C#\\ManageLibrary\\CustomException.cs",
+              "RelativeDocumentMoniker": "CustomException.cs",
+              "ToolTip": "D:\\MB_Traing_Basic_of_C#\\ManageLibrary\\CustomException.cs",
+              "RelativeToolTip": "CustomException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T02:20:03.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LINQ.cs",
+              "DocumentMoniker": "D:\\MB_Traing_Basic_of_C#\\ManageLibrary\\LINQ.cs",
+              "RelativeDocumentMoniker": "LINQ.cs",
+              "ToolTip": "D:\\MB_Traing_Basic_of_C#\\ManageLibrary\\LINQ.cs",
+              "RelativeToolTip": "LINQ.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T03:36:26.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OOP.cs",
+              "DocumentMoniker": "D:\\MB_Traing_Basic_of_C#\\ManageLibrary\\OOP.cs",
+              "RelativeDocumentMoniker": "OOP.cs",
+              "ToolTip": "D:\\MB_Traing_Basic_of_C#\\ManageLibrary\\OOP.cs",
+              "RelativeToolTip": "OOP.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAEEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:55:28.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\MB_Traing_Basic_of_C#\\ManageLibrary\\Database.cs",
+              "RelativeDocumentMoniker": "Database.cs",
+              "ToolTip": "D:\\MB_Traing_Basic_of_C#\\ManageLibrary\\Database.cs",
+              "RelativeToolTip": "Database.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:53:44.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DVD.cs",
+              "DocumentMoniker": "D:\\MB_Traing_Basic_of_C#\\ManageLibrary\\DVD.cs",
+              "RelativeDocumentMoniker": "DVD.cs",
+              "ToolTip": "D:\\MB_Traing_Basic_of_C#\\ManageLibrary\\DVD.cs",
+              "RelativeToolTip": "DVD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T01:49:36.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\MB_Traing_Basic_of_C#\\ManageLibrary\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "D:\\MB_Traing_Basic_of_C#\\ManageLibrary\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAtwA4AAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T01:48:49.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MB_Traing_Basic_of_C#\\ManageLibrary\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\MB_Traing_Basic_of_C#\\ManageLibrary\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAAAJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T01:46:08.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BorrowingHistory.cs",
+              "DocumentMoniker": "D:\\MB_Traing_Basic_of_C#\\ManageLibrary\\BorrowingHistory.cs",
+              "RelativeDocumentMoniker": "BorrowingHistory.cs",
+              "ToolTip": "D:\\MB_Traing_Basic_of_C#\\ManageLibrary\\BorrowingHistory.cs",
+              "RelativeToolTip": "BorrowingHistory.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA7wBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T03:57:33.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibraryItem.cs",
+              "DocumentMoniker": "D:\\MB_Traing_Basic_of_C#\\ManageLibrary\\LibraryItem.cs",
+              "RelativeDocumentMoniker": "LibraryItem.cs",
+              "ToolTip": "D:\\MB_Traing_Basic_of_C#\\ManageLibrary\\LibraryItem.cs",
+              "RelativeToolTip": "LibraryItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvw8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T01:46:57.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Borrower.cs",
+              "DocumentMoniker": "D:\\MB_Traing_Basic_of_C#\\ManageLibrary\\Borrower.cs",
+              "RelativeDocumentMoniker": "Borrower.cs",
+              "ToolTip": "D:\\MB_Traing_Basic_of_C#\\ManageLibrary\\Borrower.cs",
+              "RelativeToolTip": "Borrower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T03:54:49.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
